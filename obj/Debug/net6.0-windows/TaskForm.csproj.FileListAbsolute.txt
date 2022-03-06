@@ -1,0 +1,15 @@
+C:\VsCodeProjects\WinFormsProject\TaskForm\obj\Debug\net6.0-windows\TaskForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\VsCodeProjects\WinFormsProject\TaskForm\obj\Debug\net6.0-windows\TaskForm.AssemblyInfoInputs.cache
+C:\VsCodeProjects\WinFormsProject\TaskForm\obj\Debug\net6.0-windows\TaskForm.AssemblyInfo.cs
+C:\VsCodeProjects\WinFormsProject\TaskForm\obj\Debug\net6.0-windows\TaskForm.csproj.CoreCompileInputs.cache
+C:\VsCodeProjects\WinFormsProject\TaskForm\bin\Debug\net6.0-windows\TaskForm.exe
+C:\VsCodeProjects\WinFormsProject\TaskForm\bin\Debug\net6.0-windows\TaskForm.deps.json
+C:\VsCodeProjects\WinFormsProject\TaskForm\bin\Debug\net6.0-windows\TaskForm.runtimeconfig.json
+C:\VsCodeProjects\WinFormsProject\TaskForm\bin\Debug\net6.0-windows\TaskForm.dll
+C:\VsCodeProjects\WinFormsProject\TaskForm\bin\Debug\net6.0-windows\TaskForm.pdb
+C:\VsCodeProjects\WinFormsProject\TaskForm\obj\Debug\net6.0-windows\TaskForm.dll
+C:\VsCodeProjects\WinFormsProject\TaskForm\obj\Debug\net6.0-windows\ref\TaskForm.dll
+C:\VsCodeProjects\WinFormsProject\TaskForm\obj\Debug\net6.0-windows\TaskForm.pdb
+C:\VsCodeProjects\WinFormsProject\TaskForm\obj\Debug\net6.0-windows\TaskForm.genruntimeconfig.cache
+C:\VsCodeProjects\WinFormsProject\TaskForm\obj\Debug\net6.0-windows\TaskForm.csproj.AssemblyReference.cache
+C:\VsCodeProjects\WinFormsProject\TaskForm\obj\Debug\net6.0-windows\refint\TaskForm.dll
